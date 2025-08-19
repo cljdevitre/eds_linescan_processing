@@ -1,2 +1,2 @@
 # eds_linescan_processing
-Python Jupyter notebooks to process SEM EDS linescans
+Python Jupyter notebook routine to process SEM EDS linescans written by C.L. Devitre (inspired by script from A. Bearden). It shows how to plot linescans collected using SEM-EDS using ULTIMMAX detector from Oxford and Aztec software. It uses the images collected during acquisition to plot next to linescans. For this it requires that the image names contain the sample name as well. You should have renamed the images and linescans before exporting, or after exporting, or it won't work. If you use it, please mention my github. 
